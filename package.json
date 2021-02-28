@@ -1,0 +1,13 @@
+{
+  "name": "ProjectEuler",
+  "version": "1.0.0",
+  "description": "Project Euler",
+  "scripts": {
+  },
+  "keywords": [],
+  "author": "Kiran Machineni",
+  "license": "ISC",
+  "dependencies": {},
+  "devDependencies": {
+  }
+}
